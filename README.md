@@ -1,2 +1,1 @@
-# exp_schedule_db
-Experimental DB in Oracle PL/SQL to maintain university schedule
+Old experimental project in Oracle PL/SQL to maintain university schedule
